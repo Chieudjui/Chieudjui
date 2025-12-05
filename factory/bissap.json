@@ -1,0 +1,9 @@
+{
+	"name": "bissap",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7240c80f-5f0e-4917-9475-763666d11111",
+		"tenantId": "2b4d00e2-6acf-43cb-a31a-299fdb85fed6"
+	}
+}
